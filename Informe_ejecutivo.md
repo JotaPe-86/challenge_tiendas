@@ -26,12 +26,17 @@ A través del análisis cuantitativo de 9,435 transacciones comerciales, se busc
 
 El análisis de ingresos reveló la siguiente distribución:
 
+
 | Tienda | Facturación Total | Porcentaje del Total |
 |--------|-------------------|---------------------|
 | **Tienda 1** | $1.150.880.400 | 26.5% |
 | **Tienda 2** | $1.116.343.500 | 25.7% |
 | **Tienda 3** | $1.098.019.600 | 25.3% |
 | **Tienda 4** | $1.038.375.700 | 23.9% |
+
+<div align="center">
+<img width="391" height="382" alt="image" src="https://github.com/user-attachments/assets/a4a565b7-85b1-4844-bc2c-370e12610ead" />
+</div>
 
 **Hallazgos clave:**
 
@@ -56,6 +61,10 @@ El análisis consolidado de las cuatro tiendas mostró la siguiente distribució
 | **Artículos para el hogar** | $57.579.800 | 1.3% |
 | **Libros** | $37.696.100 | 0.9% |
 
+<div align="center">
+<img width="664" height="319" alt="image" src="https://github.com/user-attachments/assets/30b3bf6a-a6af-4cef-b72e-e93ac8636845" />
+</div>
+
 **Hallazgos clave:**
 
 - Las categorías de Electrónicos y Electrodomésticos dominan el mercado con el 68.7% de la facturación total.
@@ -75,6 +84,10 @@ La satisfacción del cliente mostró niveles consistentemente altos:
 | **Tienda 2** | 4.04 | Excelente |
 | **Tienda 4** | 4.00 | Muy Buena |
 | **Tienda 1** | 3.98 | Muy Buena |
+
+<div align="center">
+<img width="509" height="327" alt="image" src="https://github.com/user-attachments/assets/39061007-4d6d-4f33-a421-f9f0a32e7e3e" />
+</div>
 
 **Hallazgos clave:**
 
